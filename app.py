@@ -368,7 +368,7 @@ with tab3:
         </div>
         """, unsafe_allow_html=True)
 
-        genai.configure(api_key="AIzaSyB9TsOpdrny8Lu4WYQLHKYb9sjuSks2B4E")
+        genai.configure(api_key=st.secrets["gemini_api_key"])
         model = genai.GenerativeModel("gemini-1.5-flash")
         emission = results["Toplam"]
 
