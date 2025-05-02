@@ -484,6 +484,8 @@ with tab3:
                 kısa, uygulanabilir, sektörel bir yol haritası öner.
                 Her adım pratik ve sektöre uygun olmalı.
                 Yanıtı kısa ve net yaz. Türkçe yanıtla.
+                Farklı bir başlık altında işletme sürdürülebilirlik çalışmalarına önem vermezse işletmelerinin karşılaşabileceği olumsuz sonuçları yaz.
+                Önerileri ve sonuçları madde madde yaz.
                 """
 
                 response = model.generate_content(prompt)
