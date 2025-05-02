@@ -483,9 +483,10 @@ with tab3:
                 bu turizm işletmesinin karbon ayak izini kısaca analiz et. Karbon ayak izini zaltmasına yardımcı olacak
                 kısa, uygulanabilir, sektörel bir yol haritası öner.
                 Her adım pratik ve sektöre uygun olmalı.
-                Yanıtı kısa ve net yaz. Türkçe yanıtla.
                 Farklı bir başlık altında işletme sürdürülebilirlik çalışmalarına önem vermezse işletmelerinin karşılaşabileceği olumsuz sonuçları yaz.
                 Önerileri ve sonuçları madde madde yaz.
+                Yanıtı kısa ve net yaz. Türkçe yanıtla.
+
                 """
 
                 response = model.generate_content(prompt)
