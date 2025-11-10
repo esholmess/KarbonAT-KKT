@@ -485,7 +485,7 @@ with tab3:
                 Her adım pratik ve sektöre uygun olmalı.
                 Farklı bir başlık altında işletme sürdürülebilirlik çalışmalarına önem vermezse işletmelerinin karşılaşabileceği olumsuz sonuçları yaz.
                 Önerileri ve sonuçları madde madde yaz.
-                YANITI KISA VE NET YAZ. TÜRKÇE YANITLA.
+                YANITI KISA VE NET YAZ. TÜRKÇE YANITLA. Kelime sınırı : 200
                 
                 
 
