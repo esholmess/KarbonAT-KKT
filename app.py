@@ -376,7 +376,7 @@ with tab3:
         """, unsafe_allow_html=True)
 
         genai.configure(api_key=st.secrets["gemini_api_key"])
-        model = genai.GenerativeModel("gemini-1.5-flash")
+        model = genai.GenerativeModel("gemini-2.5-flash-lite")
         emission = results["Toplam"]
 
         st.markdown("<hr style='border: 0.5px solid #00e676;'>", unsafe_allow_html=True)
